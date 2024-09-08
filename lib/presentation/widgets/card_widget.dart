@@ -62,14 +62,14 @@ class CardWidget extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
                   Text(
-                    "Origen: $country",
+                    "Origin: $country",
                     style: const TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.w500,
                     ),
                   ),
                   Text(
-                    "Inteligencia: $number",
+                    "Intelligence: $number",
                     style: const TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.w500,
